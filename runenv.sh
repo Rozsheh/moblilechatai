@@ -16,5 +16,4 @@ echo "Virtual environment activated."
 pip install -r requirements.txt
 echo "Requirements installed."
 
-# Your command to run the local environment
 echo "Starting the local environment..."
